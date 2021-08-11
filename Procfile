@@ -1,1 +1,1 @@
-web: npm i --production; npm start
+web: npm start
